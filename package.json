@@ -1,0 +1,10 @@
+{
+  "name": "Todos sample app",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {}
+}
