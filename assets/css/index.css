@@ -1,0 +1,20 @@
+.margin-top-15 {
+  margin-top: 15px;
+}
+
+.margin-bottom-15 {
+  margin-bottom: 15px;
+}
+
+ul.todos {
+  list-style-type: none;
+  width: 400px;
+}
+
+#special-todo {
+  font-weight: 900;
+}
+
+ul.todos > li > button > input[type="checkbox"] {
+  margin-right: 15px;
+}
